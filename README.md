@@ -41,7 +41,7 @@
 * Named Entity Recognition for visualizing the entities in the corpus
 
 ### Modeling
-Using Afinn and TextBlob algorithms for get polarized scores of news
+Using Afinn and TextBlob algorithms for getting polarized scores of news
 
 ### Result
 Sports industry had more positive news which could be related to India's current top performance in sports, tech industry was neutral with some positive and some negative news. The wordly news was most negative owing to the coronavirus.
